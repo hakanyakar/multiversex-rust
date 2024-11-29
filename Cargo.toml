@@ -6,5 +6,5 @@ edition = "2021"
 [dependencies]
 
 [[bin]]
-name = "multiversex-rust"
-path = "main.rs"
+name = "concatenate"
+path = "src/bin/concatenate.rs"
